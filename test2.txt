@@ -2,3 +2,7 @@ hello i am in conflits
 
 
 hello 
+
+helllo i am committing the file 
+
+here it is 
