@@ -1,11 +1,16 @@
 first line in file 
 
 hello
+<<<<<<< HEAD
 3uydfgwyedgwd
+=======
+
+>>>>>>> 200d212 (changes by harsh)
 
 fghgwedcdbwcbewc
 
 
+<<<<<<< HEAD
 qerfhfherjfc
 
 fcbecbecbec
@@ -13,3 +18,6 @@ eqwejqcbbwecbhwejfcb
 qerfhfc3dfhwdf
 
 wuhwecefc
+=======
+qerfhfherjfc
+>>>>>>> 200d212 (changes by harsh)
